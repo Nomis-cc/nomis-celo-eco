@@ -1,0 +1,25 @@
+{
+  "CeloscanSettings": {
+    "ApiKey": "TS4S9QG5TVTX9XGCU2QR5B3X5DYFIJ62YT",
+    "ApiBaseUrl": "https://api.celoscan.io/",
+    "BlockchainDescriptor": {
+      "ChainId": 42220,
+      "ChainName": "Celo Mainnet",
+      "BlockchainName": "Celo",
+      "BlockchainSlug": "celo",
+      "BlockExplorerUrls": [
+        "https://celoscan.io/"
+      ],
+      "RPCUrls": [
+        "https://rpc.ankr.com/celo",
+        "https://forno.celo.org",
+        "https://1rpc.io/celo"
+      ],
+      "IsEVMCompatible": true,
+      "SBTContractAddresses": {
+        "Finance": "0x71D724EaF572Cf1bc3b1d0871D3D912B2597De58",
+        "Eco": "0x63A6B87E920E8940006CF77b3d3aAbCC63F91B2B"
+      }
+    }
+  }
+}
